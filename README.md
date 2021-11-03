@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ornlgto
-- 👀 I’m interested in gaming/coding/reading
+- 👋 Hi, I’m Ornella
+- 👀 I’m interested in reading, coding and gaming 
 - 🌱 I’m currently learning Javascript/NodeJS/React
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: ornellagatto7@gmail.com
